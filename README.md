@@ -89,7 +89,7 @@ Este projeto tem como objetivo identificar **grupos de consumidores com perfis s
 Este projeto faz parte da minha jornada prática em Data Science e Marketing Analytics.
 
 📫 Vamos conectar?  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thaylaoliveira)  
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thayla-oliveira)  
 🌐 [Meu GitHub](https://github.com/ThaylaOliveira)
 
 ---
