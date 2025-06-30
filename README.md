@@ -60,12 +60,17 @@ Este projeto tem como objetivo identificar **grupos de consumidores com perfis s
 
 ---
 
+📸 Visualização dos clusters:
+
+![Visualização dos Clusters](Clusters.png)
+
+---
 ## 📂 Estrutura dos Arquivos
 
 | Arquivo                      | Descrição                                         |
 |-----------------------------|---------------------------------------------------|
 | `dados_clientes.csv`        | Base de dados com informações de consumidores     |
-| `segmentacao_clientes.R`    | Script principal com EDA, clustering e visualizações |
+| `cluster-clientes.R`        | Script principal com EDA, clustering e visualizações |
 | `README.md`                 | Descrição do projeto                              |
 
 ---
